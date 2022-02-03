@@ -7,15 +7,15 @@
 #define  VERSION  " 1.0  SN:000001"
 #define  MASTER_PASSWORD "374522"
 
-#define   TEXT1_LOGO_ENG   "Sanjesh"
-#define   TEXT2_LOGO_ENG   "Electronic"
-#define   TEXT3_LOGO_ENG   "Metropolis"
+#define   TEXT1_LOGO_ENG   ""
+#define   TEXT2_LOGO_ENG   ""
+#define   TEXT3_LOGO_ENG   ""
 
-#define   TEXT1_LOGO_FA     "©›÷¨"
-#define   TEXT2_LOGO_FA     "íş÷ø¤—îó"
-#define   TEXT3_LOGO_FA     "–¡—ş‘•"
+#define   TEXT1_LOGO_FA     "Â©â€ºÃ·Â¨"
+#define   TEXT2_LOGO_FA     "Ã­Ã¾Ã·Ã¸Â¤â€”Ã®Ã³Â"
+#define   TEXT3_LOGO_FA     "â€“Â¡â€”Ã¾â€˜â€¢"
 
-#define   TEXT_TEL_ENG       "(021) 55436628-30 : öêó—"
+#define   TEXT_TEL_ENG       "(021) 55436628-30 : Ã¶ÃªÃ³â€”"
 
 
 #include "mega128.h"
